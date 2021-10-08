@@ -23,3 +23,8 @@ https://github.com/YoonsunC/TIL/commit/aadc0e33432b49997fd331c5ce201aea329ac0fa
 4. 정보처리기사 실기 공부  
 5. XSS 간단 정리  
 https://github.com/YoonsunC/TIL/commit/aadc0e33432b49997fd331c5ce201aea329ac0fa  
+## DAY 26 - 2021.10.08  
+1. K-Digital Training 수강(AWS 게임서버 시나리오 구성 및 구성도 그리기)  
+![image](https://blog.kakaocdn.net/dn/bU3y4s/btrhddvKBZb/Ama7lMHOdiXSgH5CL5BdC1/img.png)  
+2. 졸업논문 1차 작성 (1/30)  
+3. 정보처리기사 실기 공부  

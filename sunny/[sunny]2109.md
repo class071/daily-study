@@ -75,7 +75,9 @@ https://github.com/YoonsunC/TIL/commit/538483bddc4c127a556750b426ed00a121560487
 ## DAY 19 - 2021.09.29  
 1. K-Digital Training - Module Project3  
 2. CERT 면접  
+![2](https://user-images.githubusercontent.com/87630630/136428607-89f7cd18-483b-483f-aa96-0e1cef9abd85.png)
 ## DAY 20 - 2021.09.30  
 1. K-Digital Training 특강 - 포트폴리오 작성  
 2. 법학과 졸업논문 주제선정 - 빅데이터와 개인정보보호의 딜레마(가명정보중심)  
-3. AWS module project3 과제
+3. AWS module project3 과제  
+![1](https://user-images.githubusercontent.com/87630630/136429373-5ffc5872-d160-4380-be89-ea72f0ba88ef.png)
