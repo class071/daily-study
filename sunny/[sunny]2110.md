@@ -28,3 +28,7 @@ https://github.com/YoonsunC/TIL/commit/aadc0e33432b49997fd331c5ce201aea329ac0fa
 ![image](https://blog.kakaocdn.net/dn/bU3y4s/btrhddvKBZb/Ama7lMHOdiXSgH5CL5BdC1/img.png)  
 2. 졸업논문 1차 작성 (1/30)  
 3. 정보처리기사 실기 공부  
+## DAY 21 - 2021.10.09  
+1. 졸업논문 1차 작성 (2/30)  
+2. 정보처리기사 실기 공부  
+3. TCP/UDP 정리  
