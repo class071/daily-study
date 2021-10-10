@@ -32,3 +32,8 @@ https://github.com/YoonsunC/TIL/commit/aadc0e33432b49997fd331c5ce201aea329ac0fa
 1. 졸업논문 1차 작성 (2/30)  
 2. 정보처리기사 실기 공부  
 3. TCP/UDP 정리  
+https://github.com/YoonsunC/TIL/pull/8/commits/837858304e9078c603814d4adbb404b6b4a23692  
+## DAY 22 - 2021.10.10  
+1. 정보처리기사 실기 공부, 1장 정리  
+https://github.com/YoonsunC/TIL/pull/9/commits/3dd3ccd335ac3e4d926c9103598f11b3b1a18e27  
+2. 형법각론 4주차 마무리 수강  
