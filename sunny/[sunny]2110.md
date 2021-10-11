@@ -37,3 +37,7 @@ https://github.com/YoonsunC/TIL/pull/8/commits/837858304e9078c603814d4adbb404b6b
 1. 정보처리기사 실기 공부, 1장 정리  
 https://github.com/YoonsunC/TIL/pull/9/commits/3dd3ccd335ac3e4d926c9103598f11b3b1a18e27  
 2. 형법각론 4주차 마무리 수강  
+## DAY 23 - 2021.10.11  
+1. 정보처리기사 실기 공부 / 2,3장 정리  
+https://github.com/YoonsunC/TIL/commit/e6242617f7ade90c004bd13cf1a8331291a80d56  
+3. 행정법 4,5,6주차 수강  
