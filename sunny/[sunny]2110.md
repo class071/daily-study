@@ -41,3 +41,6 @@ https://github.com/YoonsunC/TIL/pull/9/commits/3dd3ccd335ac3e4d926c9103598f11b3b
 1. 정보처리기사 실기 공부 / 2,3장 정리  
 https://github.com/YoonsunC/TIL/commit/e6242617f7ade90c004bd13cf1a8331291a80d56  
 3. 행정법 4,5,6주차 수강  
+## DAY 24 - 2021.10.12  
+1. 정보처리기사 실기 공부 / 4장 정리  
+2. K-Digital Training 수강(AWS 클라이언트 VPN 엔드포인트)
