@@ -45,8 +45,12 @@ https://github.com/YoonsunC/TIL/commit/e6242617f7ade90c004bd13cf1a8331291a80d56
 1. 정보처리기사 실기 공부 / 4장 정리  
 https://github.com/YoonsunC/TIL/commit/9df1ef57eaf965e68c9a8f70518587779e1368ed#diff-abbbebc6e46be6331a67b841afee7706aee279aecbb2408867302f3f51b5d0ff  
 2. K-Digital Training 수강(AWS 클라이언트 VPN 엔드포인트)  
-
 ## DAY 25 - 2021.10.13  
 1. 정보처리기사 실기 공부 / 5,6,7장 정리  
 2. K-Digital Training 수강(AWS Bastion Host)  
 https://github.com/YoonsunC/TIL/commit/2adc12faaca9425ee846f2c19eef5f1daebb979f  
+## DAY 26 - 2021.10.14  
+1. 정보처리기사 실기 공부 / 8,9,10,11,12장 정리  
+https://github.com/YoonsunC/TIL/commit/ede0b0b160395b1465d0ea92cf1f64b594d4add9  
+2. K-Digital Training 수강(AWS 스크립트로 구성 및 ECS 실습)  
+https://github.com/YoonsunC/TIL/commit/afee9531b962a02dddc4701094dd3d72d258da1f  
