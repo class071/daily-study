@@ -54,3 +54,7 @@ https://github.com/YoonsunC/TIL/commit/2adc12faaca9425ee846f2c19eef5f1daebb979f
 https://github.com/YoonsunC/TIL/commit/ede0b0b160395b1465d0ea92cf1f64b594d4add9  
 2. K-Digital Training 수강(AWS 스크립트로 구성 및 ECS 실습)  
 https://github.com/YoonsunC/TIL/commit/afee9531b962a02dddc4701094dd3d72d258da1f  
+## DAY 27 - 2021.10.15  
+1. 정보처리기사 실기 공부 / 전체정리(하다가 잠들어서 얼마안됨)  
+  https://github.com/YoonsunC/TIL/commit/f924c2f2e89683de1b03dd2352513a813eda2f54
+2. K-Digital Training 수강(AWS NACL, 보안그룹 설정 - NAT Gateway 위주)  
