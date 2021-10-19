@@ -58,3 +58,13 @@ https://github.com/YoonsunC/TIL/commit/afee9531b962a02dddc4701094dd3d72d258da1f
 1. 정보처리기사 실기 공부 / 전체정리(하다가 잠들어서 얼마안됨)  
   https://github.com/YoonsunC/TIL/commit/f924c2f2e89683de1b03dd2352513a813eda2f54
 2. K-Digital Training 수강(AWS NACL, 보안그룹 설정 - NAT Gateway 위주)  
+## DAY 28 - 2021.10.16  
+1. 정보처리기사 실기 시험 (내년을 기약)  
+2. K-Digital Training 멘토링(최종프로젝트 조원,멘토분들 만남)  
+3. 전공탄탄 파이썬 3주차 수강  
+https://github.com/YoonsunC/TIL/commit/310457157f6f8c703567e019312f5471925a4018  
+4. 형법각론 과제  
+## DAY 29 - 2021.10.19  
+1. K-Digital Training 수강  
+https://github.com/YoonsunC/TIL/commit/a1a5df3a2a58c315f7ce44fe25c3268502023a43  
+2. 형법각론 중간과제 제출  
