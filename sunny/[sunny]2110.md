@@ -65,6 +65,10 @@ https://github.com/YoonsunC/TIL/commit/afee9531b962a02dddc4701094dd3d72d258da1f
 https://github.com/YoonsunC/TIL/commit/310457157f6f8c703567e019312f5471925a4018  
 4. 형법각론 과제  
 ## DAY 29 - 2021.10.19  
-1. K-Digital Training 수강  
+1. K-Digital Training 수강(구성도 맞춰서 구성 및 NACL, CIDR 작성)  
 https://github.com/YoonsunC/TIL/commit/a1a5df3a2a58c315f7ce44fe25c3268502023a43  
 2. 형법각론 중간과제 제출  
+## DAY  - 2021.10.20  
+1. K-Digital Training 수강(취업특강-면접)  
+2. 전공탄탄 파이썬 4주차 수강  
+https://github.com/YoonsunC/TIL/commit/2ee696e7cbf4ab4a08580a928958c0157e310b22  
