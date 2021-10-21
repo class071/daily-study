@@ -72,3 +72,8 @@ https://github.com/YoonsunC/TIL/commit/a1a5df3a2a58c315f7ce44fe25c3268502023a43
 1. K-Digital Training 수강(취업특강-면접)  
 2. 전공탄탄 파이썬 4주차 수강  
 https://github.com/YoonsunC/TIL/commit/2ee696e7cbf4ab4a08580a928958c0157e310b22  
+## DAY - 2021.10.21  
+1. K-Digital Training 수강 (AWS구성도에 맞춰 구성 및 DDoS 툴로 공격해보기)  
+https://github.com/YoonsunC/TIL/commit/08c131c9da55c6ea3b84de518df8de1e5d13cd58  
+2. 네트워크관리사 2급 기출문제 1회 풀기(갑자기 자격증 따고 싶어서)  
+3. K-Digital Training 프로젝트 발표 회의  
