@@ -75,5 +75,16 @@ https://github.com/YoonsunC/TIL/commit/2ee696e7cbf4ab4a08580a928958c0157e310b22
 ## DAY - 2021.10.21  
 1. K-Digital Training 수강 (AWS구성도에 맞춰 구성 및 DDoS 툴로 공격해보기)  
 https://github.com/YoonsunC/TIL/commit/08c131c9da55c6ea3b84de518df8de1e5d13cd58  
-2. 네트워크관리사 2급 기출문제 1회 풀기(갑자기 자격증 따고 싶어서)  
-3. K-Digital Training 프로젝트 발표 회의  
+2. 네트워크관리사 2급 기출문제 1회 풀기(갑자기 자격증 따고 싶어서 접수)  
+3. K-Digital Training 프로젝트 발표 회의 및 ppt 제작  
+## DAY - 2021.10.22  
+1. K-Digital Training 수강 (client vpn 연결 및 CloudWatch, CloudTrail)  
+https://github.com/YoonsunC/TIL/commit/8cbbf42c6e875095b2fb141b83da728f8dc39111  
+2. 형법각론 5,6,7주차 수강  
+## DAY - 2021.10.23~25  
+하긴했는데 시간도 짧고 증빙자료도 없어서 패스  
+## DAY - 2021.10.26  
+1. K-Digital Trining (Module Project 4 준비 및 회의)  
+2. TCP/IP 4계층 정리  
+https://github.com/YoonsunC/TIL/commit/06a91943e1523461818f9e23e1adb477b7ce072e  
+3. 법학과 졸업논문 작성 (1차제출 D-3)
