@@ -87,4 +87,8 @@ https://github.com/YoonsunC/TIL/commit/8cbbf42c6e875095b2fb141b83da728f8dc39111
 1. K-Digital Trining (Module Project 4 준비 및 회의)  
 2. TCP/IP 4계층 정리  
 https://github.com/YoonsunC/TIL/commit/06a91943e1523461818f9e23e1adb477b7ce072e  
-3. 법학과 졸업논문 작성 (1차제출 D-3)
+3. 법학과 졸업논문 작성 (1차제출 D-3)  
+## DAY - 2021.10.28  
+1. K-Digital Trining (Module Project 4 준비 및 회의, 구성도 작성)  
+![image](https://user-images.githubusercontent.com/87630630/139280014-281158e4-2958-444a-8373-fc77f56bfe72.png)  
+2. 법학과 졸업논문 작성 (1차제출 D-1)  
