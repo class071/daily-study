@@ -92,3 +92,8 @@ https://github.com/YoonsunC/TIL/commit/06a91943e1523461818f9e23e1adb477b7ce072e
 1. K-Digital Trining (Module Project 4 준비 및 회의, 구성도 작성)  
 ![image](https://user-images.githubusercontent.com/87630630/139280014-281158e4-2958-444a-8373-fc77f56bfe72.png)  
 2. 법학과 졸업논문 작성 (1차제출 D-1)  
+## DAY - 2021.10.29  
+1. K-Digital Trining (과정 평가 및 Module Project 4 평가, 내일 발표 ppt 작성)  
+2. 법학과 졸업논문 1차 작성 및 제출  
+3. ARP, MAC address 개념정리  
+https://github.com/YoonsunC/TIL/commit/7d244c805847c9b78231c5f73f4769f77eb67597  
