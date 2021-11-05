@@ -10,3 +10,8 @@ https://github.com/YoonsunC/TIL/commit/9479ae2396f7f02c63bfc8eb06e0cf1e95dd4353
 4. 전공탄탄 파이썬 6주차 정리  
 https://github.com/YoonsunC/TIL/commit/9a0f8447fb544d2c5a8d681432cacb8e9f7938fd  
 
+## DAY 39 - 2021.11.05  
+1. K-Digital Training 최종 프로젝트  
+2. 행정법 9주차 수강  
+3. 형법각론 9주차 정리  
+https://github.com/YoonsunC/TIL/commit/11ddcfaf51edeb1b5c210d9eb1b916bccefaba5a  
