@@ -43,3 +43,22 @@ https://github.com/YoonsunC/TIL/commit/8af14a76d034404fb6301276f5b17ad8ec75af74
 1. 행정법 11주차 수강 및 정리  
 2. 형법각론 11주차 정리  
 https://github.com/YoonsunC/TIL/commit/dd35fe0987ed0079887a4fb615edbd03ec9672a2  
+## DAY 47 - 2021.11.17  
+1. K-Digital Training 최종 프로젝트  
+2. 전공탄탄 파이썬 8주차 수강  
+https://github.com/YoonsunC/TIL/commit/c264ee56d4235b24b8a4e8a3a0ec082a342e72b7   
+## DAY 48 - 2021.11.18  
+1. K-Digital Training 최종 프로젝트 - 중간발표준비 ppt 작성  
+![image](https://user-images.githubusercontent.com/87630630/143149234-e6eae157-07c2-44a9-8ae0-1d45d543e627.png)  
+## DAY 49 - 2021.11.19  
+1. K-Digital Training 최종 프로젝트 - 중간발표준비(디자인 갈아엎음)  
+![image](https://user-images.githubusercontent.com/87630630/143149108-ea421726-aa71-4938-8572-c44437140653.png)  
+## DAY 50 - 2021.11.22  
+1. 법학과 졸업논문 3차 작성  
+(졸업논문인데 왜이렇게 꼼꼼히 읽으시는 겁니까 교수님,,,)  
+![image](https://user-images.githubusercontent.com/87630630/143148949-3f87ee73-8d0d-4f0b-8ad4-41430391afef.png)  
+## DAY 50 - 2021.11.23  
+1. 법학과 졸업논문 3차 작성, 제출  
+2. K-Digital Training 최종 프로젝트 - AWS 서비스 상세기능정의서 S3 Glacier 작성  
+![image](https://user-images.githubusercontent.com/87630630/143148418-e02f6be2-769e-4e2a-a4ff-295896d76652.png)  
+3. SKCT 공부  
